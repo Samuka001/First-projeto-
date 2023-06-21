@@ -140,7 +140,7 @@ ul li a {
   transition: backgound 0.2s;
 }
 
-/*pseudo-selector = criar uma animação de quando passa o mause por cima do background */
+/*pseudo-selector = criar uma animação de quando passa o mouse por cima do background */
 
 ul li a:hover {
   background: var(--surface-color-hover);
